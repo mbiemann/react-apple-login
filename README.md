@@ -36,7 +36,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 https://developer.apple.com/account/#/overview/TG25L453P5
 ## Step-2  Setting Up Developer Portal:
 
-First, sign in to the Apple Developer Portal and enroll if you have not already, and then click on Certificates, Identifiers and Profiles
+First, sign in to the Apple Developer Portal and enroll if you have not already, and then click on Certificates, Identifiers and Profiles: https://developer.apple.com/account/ios/certificate/
 
 ## Step-3 Setting up App ID, Register a new identifier and select App Ids, Select option "Signin with apple"
 
